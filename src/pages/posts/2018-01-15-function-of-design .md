@@ -1,5 +1,5 @@
 ---
-title: The function of design is letting design function
+title: The function of design is letting design function?
 subtitle: Vestibulum sed arcu non odio euismod lacinia at quis risus
 date: '2018-01-15'
 content_img_path: images/1.jpg
